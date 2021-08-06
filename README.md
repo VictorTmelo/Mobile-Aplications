@@ -1,2 +1,2 @@
 # MobileAplications
-Mobile Aplications using Android Studio
+Mobile Aplications using Android Studio.
