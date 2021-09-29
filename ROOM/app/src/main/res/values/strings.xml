@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Droid To Do</string>
+    <string name="navigation_drawer_menu_home">Home</string>
+    <string name="navigation_drawer_menu_important">Importantes</string>
+    <string name="navigation_drawer_menu_done">Concluído</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="mercurio_light_background">#F03A3A</color>
+    <color name="mercurio_dark_background">#580303</color>
+    <color name="venus_light_background">#5DFDD6</color>
+    <color name="venus_dark_background">#064B43</color>
+    <color name="terra_light_backgroung">#056EE2</color>
+    <color name="terra_dark_backgroung">#04315F</color>
+    <color name="marte_light_background">#FA8448</color>
+    <color name="marte_dark_background">#923202</color>
+    <color name="jupiter_light_background">#B459F1</color>
+    <color name="jupiter_dark_background">#33014E</color>
+    <color name="saturno_light_background">#F3CA62</color>
+    <color name="saturno_dark_background">#746100</color>
+
+
+</resources>
